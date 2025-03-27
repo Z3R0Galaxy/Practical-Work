@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="88308122-8eaa-4a32-b2cc-956e2934ba4e" name="Changes" comment="Added Labs 120.3A-C">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab 1 - Structure charts to functions/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab 120.2 - Structure charts to functions/lab01_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 120.2 - Structure charts to functions/lab01_functions.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Z3R0Galaxy&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Z3R0Galaxy/Practical-Work.git&quot;,
+    &quot;accountId&quot;: &quot;c60643ff-392d-4563-bf9d-83e07cf7c356&quot;
+  }
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -42,6 +54,7 @@
     &quot;Python.scratch.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -94,7 +107,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-d68999036c7f-b11f5e8da5ad-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.14475.56" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-PY-243.25659.43" />
+        <option value="bundled-python-sdk-181015f7ab06-4df51de95216-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.25659.43" />
       </set>
     </attachedChunks>
   </component>
@@ -109,6 +123,8 @@
       <workItem from="1742179156693" duration="3474000" />
       <workItem from="1742253796231" duration="8000" />
       <workItem from="1742954881975" duration="3692000" />
+      <workItem from="1742960428047" duration="112000" />
+      <workItem from="1742960543067" duration="9331000" />
     </task>
     <task id="LOCAL-00001" summary="Added Lab 1">
       <option name="closed" value="true" />
