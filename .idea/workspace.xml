@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="88308122-8eaa-4a32-b2cc-956e2934ba4e" name="Changes" comment="Added Labs 120.3A-C">
-      <change beforePath="$PROJECT_DIR$/.idea/11-SWE-Practical-Work.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/11-SWE-Practical-Work.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab 120.3A - Pseudocode to Python/lab_1203A.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 120.3A - Pseudocode to Python/lab_1203A.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab 120.3B - Flowcharts to Python/lab_1203B.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 120.3B - Flowcharts to Python/lab_1203B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab 120.3B - Flowcharts to Python/Pseudocode to flowcharts.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,7 +125,7 @@
       <workItem from="1742253796231" duration="8000" />
       <workItem from="1742954881975" duration="3692000" />
       <workItem from="1742960428047" duration="112000" />
-      <workItem from="1742960543067" duration="12811000" />
+      <workItem from="1742960543067" duration="15225000" />
     </task>
     <task id="LOCAL-00001" summary="Added Lab 1">
       <option name="closed" value="true" />
@@ -187,7 +183,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743112677608</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Added Labs 120.3A-C">
+      <option name="closed" value="true" />
+      <created>1743116140347</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1743116140347</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
