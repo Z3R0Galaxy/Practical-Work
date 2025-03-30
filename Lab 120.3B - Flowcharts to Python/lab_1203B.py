@@ -6,7 +6,10 @@ midpoint = 0
 
 found = False
 
+print("----------------------------------------------------")
 print(*alpha_part)
+print("----------------------------------------------------")
+print()
 item = input("Enter the item you wish to search: ")
 
 while not found and lower_bound <= upper_bound:
