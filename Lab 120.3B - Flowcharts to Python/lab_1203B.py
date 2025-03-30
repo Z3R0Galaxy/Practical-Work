@@ -1,11 +1,13 @@
 alpha_part = ["blue", "brown", "green", "orange", "pink", "purple", "red", "white", "yellow"]
-item = 'purple'
 
 lower_bound = 0
 upper_bound = len(alpha_part) - 1
 midpoint = 0
 
 found = False
+
+print(*alpha_part)
+item = input("Enter the item you wish to search: ")
 
 while not found and lower_bound <= upper_bound:
     midpoint = (lower_bound + upper_bound) // 2
