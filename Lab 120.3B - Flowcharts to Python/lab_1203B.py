@@ -6,9 +6,9 @@ midpoint = 0
 
 found = False
 
-print("-"*(sum(len(word) for word in alpha_part) + (len(alpha_part) - 1)))
+print("-" * (sum(len(word) for word in alpha_part) + (len(alpha_part) - 1)))
 print(*alpha_part)
-print("-"*(sum(len(word) for word in alpha_part) + (len(alpha_part) - 1)))
+print("-" * (sum(len(word) for word in alpha_part) + (len(alpha_part) - 1)))
 print()
 
 item = input("Enter the item you wish to search: ")
