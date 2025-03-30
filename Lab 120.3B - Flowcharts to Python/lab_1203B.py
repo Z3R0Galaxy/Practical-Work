@@ -6,10 +6,11 @@ midpoint = 0
 
 found = False
 
-print("----------------------------------------------------")
+print("-"*(sum(len(word) for word in alpha_part) + (len(alpha_part) - 1)))
 print(*alpha_part)
-print("----------------------------------------------------")
+print("-"*(sum(len(word) for word in alpha_part) + (len(alpha_part) - 1)))
 print()
+
 item = input("Enter the item you wish to search: ")
 
 while not found and lower_bound <= upper_bound:
