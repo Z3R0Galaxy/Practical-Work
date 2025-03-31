@@ -1,4 +1,4 @@
-alpha_part = ["blue", "brown", "green", "orange", "pink", "purple", "red", "white", "yellow"]
+alpha_part = ["blue", "brown", "green", "orange", "pink", "purple", "red", "white", "yellow", "black"]
 
 lower_bound = 0
 upper_bound = len(alpha_part) - 1
